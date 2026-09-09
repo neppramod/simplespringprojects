@@ -6,7 +6,7 @@ Let's first define a barebone project without AspectJ
 
 1. Create a `Comment` model class
 
-```
+```Java
 package model;
 
 public class Comment {
@@ -19,7 +19,7 @@ public class Comment {
 
 2. Then create a `CommentService` class to publish comment
 
-```
+```Java
 package services;
 
 import model.Comment;
