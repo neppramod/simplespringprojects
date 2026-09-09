@@ -42,3 +42,10 @@ public class EmailCommentNotificationProxy implements CommentNotificationProxy{
     this.commentNotificationProxy = commentNotificationProxy;
 }
 ```
+
+Output should be similar to previous project
+
+```
+Storing comment: Look, I recently bought a new Parrot!
+Sending email notification for comment: Look, I recently bought a new Parrot!
+```
