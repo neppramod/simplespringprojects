@@ -2,6 +2,6 @@
 
 Collection of small projects for refreshing learning on Spring Start Here.
 
-# Example 01
 
-Covers upto Chapter 3
+
+Visit each project to see project specific README files.
